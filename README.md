@@ -1,9 +1,10 @@
 1- 👋 Hi, I’m @TearsLight
-- 👀 I’m interested in hardware development
-- 🌱 I’m currently learning UAVS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in hardware development and AI Nertual Network.
+- 🌱 I’m currently learning UAVS and AI ChatBot
+- 💞️ I’m looking to collaborate on this
 - 📫 How to reach me
 - By Gmail
+Gmail:lanterns1020@gmail.com or zhuwei878@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
