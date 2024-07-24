@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on this
 - 📫 How to reach me
 - By Gmail
-Gmail:lanterns1020@gmail.com or zhuwei878@gmail.com
+lanterns1020@gmail.com or zhuwei878@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
