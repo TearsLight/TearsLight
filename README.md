@@ -1,6 +1,6 @@
 1- 👋 Hi, I’m @TearsLight
 - 👀 I’m interested in hardware development and AI Nertual Network.
-- 🌱 I’m currently learning UAVS and AI ChatBot and C/C++ Language.
+- 🌱 I’m currently learning web Tec and CTF.
 - 💞️ I’m looking to collaborate on this
 - 📫 How to reach me
 - By Gmail
