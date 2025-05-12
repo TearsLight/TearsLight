@@ -1,4 +1,4 @@
-1- 👋 Hi, I’m @TearsLight
+1- 👋 Hi, I’m @CherryLanterns
 - 👀 I’m interested in hardware development and AI Nertual Network.
 - 🌱 I’m currently learning web Tec and CTF.
 - 💞️ I’m looking to collaborate on this
